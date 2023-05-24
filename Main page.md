@@ -1,5 +1,5 @@
-#  Andrew#
-#  Ross#
+#  Andrew
+#  Ross
 5/24/23
 Was your first week what you expected? Why? Why not?
 -- I had no expectations other than the fact I was going to get by a metaphorical freight train called 'bootcamp'
